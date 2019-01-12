@@ -1,5 +1,0 @@
-package com.alex.pattern.c_builder;
-
-public class Pepsi extends ColdDrink {
-
-}
